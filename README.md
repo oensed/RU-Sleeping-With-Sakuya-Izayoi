@@ -1,5 +1,5 @@
 # RU-Sleeping-With-Sakuya-Izayoi
 
-![Status](https://shields.io) ![Progress](https://shields.io)
+[https://img.shields.io/badge/progress-27%-orange](https://img.shields.io/badge/progress-25%25-orange)
 
 дилетантский перевод маленькой ВН
