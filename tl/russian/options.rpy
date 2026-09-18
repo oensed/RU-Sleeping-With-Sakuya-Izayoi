@@ -4,5 +4,5 @@ translate russian strings:
 
     # game/options.rpy:15
     old "Sleeping With Sakuya Izayoi"
-    new ""
+    new "Sleeping With Sakuya Izayoi"
 

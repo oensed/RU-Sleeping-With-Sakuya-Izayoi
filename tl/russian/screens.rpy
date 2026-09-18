@@ -4,47 +4,47 @@ translate russian strings:
 
     # game/screens.rpy:564
     old "Start"
-    new ""
+    new "Начать"
 
     # game/screens.rpy:568
     old "History"
-    new ""
+    new "История"
 
     # game/screens.rpy:570
     old "Save"
-    new ""
+    new "Сохранить"
 
     # game/screens.rpy:572
     old "Load"
-    new ""
+    new "Загрузить"
 
     # game/screens.rpy:574
     old "Preferences"
-    new ""
+    new "Настройки"
 
     # game/screens.rpy:578
     old "End Replay"
-    new ""
+    new "Завершить повтор"
 
     # game/screens.rpy:582
     old "Main Menu"
-    new ""
+    new "Главное меню"
 
     # game/screens.rpy:584
     old "About"
-    new ""
+    new "Об"
 
     # game/screens.rpy:589
     old "Help"
-    new ""
+    new "Помощь"
 
     # game/screens.rpy:595
     old "Quit"
-    new ""
+    new "Выйти"
 
     # game/screens.rpy:766
     old "Return"
-    new ""
+    new "Вернуться"
 
     # game/screens.rpy:855
     old "{i}{size=32}(You can click the bold text to be linked to their respective page){/size}{/i}"
@@ -80,11 +80,11 @@ translate russian strings:
 
     # game/screens.rpy:929
     old "Automatic saves"
-    new ""
+    new "Автоматическое сохранение"
 
     # game/screens.rpy:929
     old "Quick saves"
-    new ""
+    new "Быстрое сохранение"
 
     # game/screens.rpy:964
     old "{b}{#file_time}%Y/%m/%d  %H : %M : %S{/b}"
@@ -96,11 +96,11 @@ translate russian strings:
 
     # game/screens.rpy:1356
     old "Keyboard"
-    new ""
+    new "Клавиатура"
 
     # game/screens.rpy:1357
     old "Mouse"
-    new ""
+    new "Мышь"
 
     # game/screens.rpy:1360
     old "Gamepad"
@@ -232,17 +232,17 @@ translate russian strings:
 
     # game/screens.rpy:1828
     old "Back"
-    new ""
+    new "Назад"
 
     # game/screens.rpy:1829
     old "Skip"
-    new ""
+    new "Пропуск"
 
     # game/screens.rpy:1830
     old "Auto"
-    new ""
+    new "Авто"
 
     # game/screens.rpy:1831
     old "Menu"
-    new ""
+    new "Меню"
 

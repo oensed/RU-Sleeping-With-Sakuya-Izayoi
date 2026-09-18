@@ -144,7 +144,7 @@ translate russian strings:
 
     # renpy/common/00accessibility.rpy:292
     old "Text"
-    new ""
+    new "Текст"
 
     # renpy/common/00accessibility.rpy:306
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
@@ -152,59 +152,59 @@ translate russian strings:
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
-    new ""
+    new "Понедельник"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Tuesday"
-    new ""
+    new "Вторник"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Wednesday"
-    new ""
+    new "Среда"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Thursday"
-    new ""
+    new "Четверг"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Friday"
-    new ""
+    new "Пятница"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Saturday"
-    new ""
+    new "Суббота"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Sunday"
-    new ""
+    new "Вторник"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Mon"
-    new ""
+    new "Пн"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Tue"
-    new ""
+    new "Вт"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Wed"
-    new ""
+    new "Ср"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Thu"
-    new ""
+    new "Чт"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Fri"
-    new ""
+    new "Пт"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sat"
-    new ""
+    new "Сб"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sun"
-    new ""
+    new "Вс"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}January"
@@ -364,15 +364,15 @@ translate russian strings:
 
     # renpy/common/00director.rpy:1512
     old "⬆"
-    new ""
+    new "⬆"
 
     # renpy/common/00director.rpy:1518
     old "⬇"
-    new ""
+    new "⬇"
 
     # renpy/common/00director.rpy:1582
     old "Done"
-    new ""
+    new "Сделано"
 
     # renpy/common/00director.rpy:1592
     old "(statement)"
@@ -380,19 +380,19 @@ translate russian strings:
 
     # renpy/common/00director.rpy:1593
     old "(tag)"
-    new ""
+    new "(ярлык)"
 
     # renpy/common/00director.rpy:1594
     old "(attributes)"
-    new ""
+    new "(атрибуты)"
 
     # renpy/common/00director.rpy:1595
     old "(transform)"
-    new ""
+    new "(преобразовать)"
 
     # renpy/common/00director.rpy:1620
     old "(transition)"
-    new ""
+    new "(переход)"
 
     # renpy/common/00director.rpy:1632
     old "(channel)"
@@ -412,7 +412,7 @@ translate russian strings:
 
     # renpy/common/00director.rpy:1667
     old "Cancel"
-    new ""
+    new "отменить"
 
     # renpy/common/00director.rpy:1670
     old "Remove"
@@ -480,31 +480,31 @@ translate russian strings:
 
     # renpy/common/00gui.rpy:448
     old "Are you sure?"
-    new ""
+    new "Вы уверены?"
 
     # renpy/common/00gui.rpy:449
     old "Are you sure you want to delete this save?"
-    new ""
+    new "Вы уверены, что хотите удалить это сохранение?"
 
     # renpy/common/00gui.rpy:450
     old "Are you sure you want to overwrite your save?"
-    new ""
+    new "Вы уверены, что хотите перезаписать сохранение?"
 
     # renpy/common/00gui.rpy:451
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new ""
+    new "Загрузка приведет к потере несохраненного прогресса.\n Вы уверены, что хотите продолжить?"
 
     # renpy/common/00gui.rpy:452
     old "Are you sure you want to quit?"
-    new ""
+    new "Вы уверены, что хотите выйти?"
 
     # renpy/common/00gui.rpy:453
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new ""
+    new "Вы уверены, что хотите вернуться в главное меню? \nНесохраненный прогресс будет потерян."
 
     # renpy/common/00gui.rpy:454
     old "Are you sure you want to continue where you left off?"
-    new ""
+    new "Вы уверены, что хотите продолжить с того места, где остановились?"
 
     # renpy/common/00gui.rpy:455
     old "Are you sure you want to end the replay?"
@@ -540,7 +540,7 @@ translate russian strings:
 
     # renpy/common/00library.rpy:257
     old "Skip Mode"
-    new ""
+    new "пропуск"
 
     # renpy/common/00library.rpy:344
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
@@ -556,7 +556,7 @@ translate russian strings:
 
     # renpy/common/00preferences.rpy:324
     old "skip transitions"
-    new ""
+    new "пропуск"
 
     # renpy/common/00preferences.rpy:326
     old "video sprites"
@@ -580,19 +580,19 @@ translate russian strings:
 
     # renpy/common/00preferences.rpy:359
     old "skip"
-    new ""
+    new "пропуск"
 
     # renpy/common/00preferences.rpy:362
     old "skip unseen [text]"
-    new ""
+    new "пропуск"
 
     # renpy/common/00preferences.rpy:367
     old "skip unseen text"
-    new ""
+    new "пропуск"
 
     # renpy/common/00preferences.rpy:369
     old "begin skipping"
-    new ""
+    new "пропуск"
 
     # renpy/common/00preferences.rpy:373
     old "after choices"
