@@ -766,583 +766,583 @@ translate russian random_talk_5cafeff7:
 translate russian random_talk_5f02314b:
 
     # s "I was so happy when I finally found it! I practically skipped my way to the mansion!"
-    s ""
+    s "Я была так счастлива, когда наконец нашла её! Буквально вприпрыжку бежала обратно в особняк!"
 
 # game/script.rpy:379
 translate russian random_talk_7f147d6e:
 
     # s "Why do I like being a maid?"
-    s ""
+    s "Почему мне нравится быть горничной?"
 
 # game/script.rpy:380
 translate russian random_talk_2c43d2d9:
 
     # s "Well, leaving something better than when you first saw it..."
-    s ""
+    s "Ну... Видеть, как место или вещь становятся лучше, чем были до тебя..."
 
 # game/script.rpy:381
 translate russian random_talk_212cda7a:
 
     # s "There's no greater satisfaction."
-    s ""
+    s "Для меня нет большего удовлетворения."
 
 # game/script.rpy:384
 translate russian random_talk_b6e89684:
 
     # s "Do I have regrets?"
-    s ""
+    s "Жалею ли я о чём-нибудь?"
 
 # game/script.rpy:385
 translate russian random_talk_66f34560:
 
     # s "No, not really."
-    s ""
+    s "Нет, совсем нет."
 
 # game/script.rpy:386
 translate russian random_talk_dd167946:
 
     # s "Yes, there are things that I would've done differently if I knew what I know now."
-    s ""
+    s "Да, есть вещи, которые я бы сделала иначе, если бы знала то, что знаю сейчас."
 
 # game/script.rpy:387
 translate russian random_talk_c72c3829:
 
     # s "But all of the events in my life, lead up to here."
-    s ""
+    s "Но все события моей жизни вели именно к этому моменту."
 
 # game/script.rpy:388
 translate russian random_talk_5009acbc:
 
     # s "In this moment, where I'm laying down and admiring your eyes."
-    s ""
+    s "В этот момент, когда я лежу и любуюсь твоими глазами."
 
 # game/script.rpy:389
 translate russian random_talk_061b701f:
 
     # s "I wouldn't change a thing."
-    s ""
+    s "Я бы ничего не стала менять."
 
 # game/script.rpy:390
 translate russian random_talk_a5473992:
 
     # s "In that way, I have zero regrets."
-    s ""
+    s "Так что я ни о чем не жалею."
 
 # game/script.rpy:393
 translate russian random_talk_2c37fe39:
 
     # s "I've solved a few incidents in Gensokyo."
-    s ""
+    s "Я решила несколько инцидентов в Генсокё.   "
 
 # game/script.rpy:394
 translate russian random_talk_7d64e271:
 
     # s "Although I'm not as active as Reimu or Marisa these days"
-    s ""
+    s "Хотя в последнее время я не так активна, как Рейму или Мариса..."
 
 # game/script.rpy:395
 translate russian random_talk_6a653fdc:
 
     # s "I still consider myself a part-time incident solver!"
-    s ""
+    s "Я считаю себя специалистом, который время от времени занимается устранением инцидентов!"
 
 # game/script.rpy:398
 translate russian random_talk_f359517a:
 
     # s "The scarlet mist incident?"
-    s ""
+    s "Инцидент с алым туманом?"
 
 # game/script.rpy:399
 translate russian random_talk_ce4d0852:
 
     # s "My mistress had a lofty plan."
-    s ""
+    s "У моей хозяйки был грандиозный замысел."
 
 # game/script.rpy:400
 translate russian random_talk_2b231ea2:
 
     # s "Since she's a vampire, she couldn't go outside during the day."
-    s ""
+    s "Поскольку она вампир, она не могла выходить на улицу днём."
 
 # game/script.rpy:401
 translate russian random_talk_9ea8e857:
 
     # s "The idea was to fill the entire land of Gensokyo with a dark, scarlet colored mist, so that she could go out any time she wanted."
-    s ""
+    s "Замысел состоял в том, чтобы окутать всё Генсокё густым багровым туманом, позволяющим ей выходить наружу в любое время, когда ей вздумается."
 
 # game/script.rpy:402
 translate russian random_talk_7514a184:
 
     # s "Of course, both reimu and marisa put a stop to this."
-    s ""
+    s "Разумеется, и Рейму, и Мариса положили этому конец."
 
 # game/script.rpy:403
 translate russian random_talk_8abf5720:
 
     # s "I like to think we've more than made up for it though! We've helped a lot around Gensokyo since."
-    s ""
+    s "Впрочем, мне хочется верить, что мы всё это с лихвой искупили! С тех пор мы многим помогли в Генсокё."
 
 # game/script.rpy:406
 translate russian random_talk_e9f3a764:
 
     # s "Oh! The cherry blossom incident?"
-    s ""
+    s "А! История с цветением сакуры?"
 
 # game/script.rpy:407
 translate russian random_talk_4050a2df:
 
     # s "That was one I personally helped solved"
-    s ""
+    s "Это тот случай, который я лично помогла разрешить."
 
 # game/script.rpy:408
 translate russian random_talk_46e2c43e:
 
     # s "Yes, Yuyuko wanted to see what would happen if the ancient cherry tree bloomed."
-    s ""
+    s "Да, Ююко хотела посмотреть, что произойдет, если древняя сакура зацветет."
 
 # game/script.rpy:409
 translate russian random_talk_7264a44d:
 
     # s "The entire process caused endless winter during springtime to fall across gensokyo, so I donned my winter scarf and headed out."
-    s ""
+    s "Из-за всего этого процесса на Генсокё посреди весны обрушилась бесконечная зима, так что я намотала зимний шарф и вышла на улицу."
 
 # game/script.rpy:410
 translate russian random_talk_35a2258a:
 
     # s "I, along with Reimu and Marisa were able to stop the tree from fully blooming. And Spring returned as normal"
-    s ""
+    s "Нам с Рейму и Марисой удалось помешать дереву расцвести в полную силу. И весна вернулась как обычно."
 
 # game/script.rpy:411
 translate russian random_talk_ad2d1f05:
 
     # s "Still though, I wonder what would've happened if it fully bloomed..."
-    s ""
+    s "И всё же интересно, что бы произошло, если бы он распустился полностью..."
 
 # game/script.rpy:414
 translate russian random_talk_9f857a1a:
 
     # s "During the cherry blossom incident, I was the brunt of a few jokes."
-    s ""
+    s "Во время инцидента я стала мишенью для нескольких шуток."
 
 # game/script.rpy:415
 translate russian random_talk_560d7473:
 
     # s "Both Ran and Yuyuko called me a dog!"
-    s ""
+    s "И Ран, и Ююко назвали меня собакой!"
 
 # game/script.rpy:416
 translate russian random_talk_657e370e:
 
     # s "I'm sure it was all in good fun though."
-    s ""
+    s "Впрочем, я уверен, что всё это было просто ради веселья."
 
 # game/script.rpy:419
 translate russian random_talk_e1554201_2:
 
     # s "..."
-    s ""
+    s "..."
 
 # game/script.rpy:420
 translate russian random_talk_8070b26e:
 
     # s "Oh wow, you want me to say that?"
-    s ""
+    s "Ого, ты хочешь, чтобы я это сказала?"
 
 # game/script.rpy:421
 translate russian random_talk_ed1dfb9d:
 
     # s "Sure!"
-    s ""
+    s "Конечно!"
 
 # game/script.rpy:422
 translate russian random_talk_cc2dc863:
 
     # s "Here goes..."
-    s ""
+    s "Ну что ж..."
 
 # game/script.rpy:423
 translate russian random_talk_c51e7b9d:
 
     # s "You're such a good boy!"
-    s ""
+    s "Ты такой хороший мальчик!"
 
 # game/script.rpy:424
 translate russian random_talk_9ef69d75:
 
     # s "How was that? Hehe."
-    s ""
+    s "Ну как? Хех."
 
 # game/script.rpy:427
 translate russian random_talk_cd750962:
 
     # s "Ah, the imperishable night incident."
-    s ""
+    s "А, imperishable night."
 
 # game/script.rpy:428
 translate russian random_talk_89c1a42c:
 
     # s "This was yet another incident I helped personally resolved along with Remilia."
-    s ""
+    s "Это был очередной инцидент, который я помогла урегулировать лично — вместе с Ремилией."
 
 # game/script.rpy:429
 translate russian random_talk_5cb4e16d:
 
     # s "Two people named Erin and Kaguya tried to replace the real moon with a fake moon."
-    s ""
+    s "Два человека по имени Эрин и Кагуя попытались заменить настоящую Луну фальшивой."
 
 # game/script.rpy:430
 translate russian random_talk_05256ef5:
 
     # s "I'm not entierly sure about the details, but I think it had something to do with the lunarians on the real moon."
-    s ""
+    s "Я не совсем уверен насчет деталей, но, кажется, это было как-то связано с лунариями на настоящей Луне."
 
 # game/script.rpy:431
 translate russian random_talk_81a0c62a:
 
     # s "Either way, we put a stop to it, the real moonlight returned to Gensokyo."
-    s ""
+    s "Так или иначе, мы положили этому конец, и в Генсокё вернулся настоящий лунный свет."
 
 # game/script.rpy:432
 translate russian random_talk_7c5b297f:
 
     # s "Of course, I had some help, but I like to think I was a vital part in resolving that incident! Hehe."
-    s ""
+    s "Конечно, мне немного помогли, но мне хочется думать, что я сыграл ключевую роль в разрешении того инцидента! Хехе."
 
 # game/script.rpy:435
 translate russian random_talk_3852b75b:
 
     # s "Yukari Yakumo..."
-    s ""
+    s "Юкари Якумо..."
 
 # game/script.rpy:436
 translate russian random_talk_b09a2c75:
 
     # s "Is that name familiar to you?"
-    s ""
+    s "Тебе знакомо это имя?"
 
 # game/script.rpy:437
 translate russian random_talk_b033b902:
 
     # s "She's one of the sages of Gensokyo, she's kinda lazy but she's very powerful and more or less runs things around here."
-    s ""
+    s "Одна из мудрецов Генсокё, она довольно ленива, но при этом невероятно могущественна и, по сути, всем здесь заправляет."
 
 # game/script.rpy:438
 translate russian random_talk_2dd50743:
 
     # s "I fought with her one time, it was a danmaku battle."
-    s ""
+    s "Однажды я сразилась с ней, это была данмаку битва."
 
 # game/script.rpy:439
 translate russian random_talk_da17b6be:
 
     # s "When I eventually won the battle, she talked about how she would kidnap children"
-    s ""
+    s "Когда я в конце концов выиграла битву, она рассказывала, как будет похищать детей."
 
 # game/script.rpy:440
 translate russian random_talk_6c8c035e:
 
     # s "I hoped she was joking, but regardless, I remember firmly saying \"You better give those children back.\""
-    s ""
+    s "Я надеялась, что она шутит, но в любом случае помню, как твердо сказала \"Тебе лучше вернуть этих детей».\""
 
 # game/script.rpy:441
 translate russian random_talk_0aa3f1f5:
 
     # s "Don't mess around with Yukari."
-    s ""
+    s "Не связывайся с Юкари."
 
 # game/script.rpy:442
 translate russian random_talk_a1a7f09e:
 
     # s "You're always safe with me."
-    s ""
+    s "Со мной ты всегда в безопасности."
 
 # game/script.rpy:445
 translate russian random_talk_5bafd24a:
 
     # s "You know, I'm not too fond of pests"
-    s ""
+    s "Знаешь, я не особо жалую вредителей."
 
 # game/script.rpy:446
 translate russian random_talk_1dac961f:
 
     # s "As a matter of fact, we occasionally rate the danmaku of the other residents of Gensokyo"
-    s ""
+    s "На самом деле, мы время от времени оцениваем данмаку других обитателей Генсокё."
 
 # game/script.rpy:447
 translate russian random_talk_edbba9b6:
 
     # s "Nazrin came up, and I automatically rated her danmaku a low score, simply because she was a rat!"
-    s ""
+    s "Появилась Назрин, и я машинально поставил её данмаку низкую оценку — просто потому, что она крыса!"
 
 # game/script.rpy:448
 translate russian random_talk_b7a0b4aa:
 
     # s "What can I say? Hehe."
-    s ""
+    s "Что тут скажешь? Хехе."
 
 # game/script.rpy:451
 translate russian random_talk_2e9a316f:
 
     # s "The flower view incident..."
-    s ""
+    s "инцидент с любованием цветами..."
 
 # game/script.rpy:452
 translate russian random_talk_fe988120:
 
     # s "That's the one that changed me for the better."
-    s ""
+    s "Именно это изменило меня к лучшему."
 
 # game/script.rpy:453
 translate russian random_talk_9e6e2db4:
 
     # s "A bunch of red spider lillies were popping up across the land"
-    s ""
+    s "Повсюду из земли пробивались красные ликорисы."
 
 # game/script.rpy:454
 translate russian random_talk_c057e27d:
 
     # s "I set out to investiage it, and clashed with a bunch of Youkai, as well as Reimu and Marisa."
-    s ""
+    s "Я решила разобраться в этом и столкнулся с группой ёкаев, а также с Рейму и Марисой."
 
 # game/script.rpy:455
 translate russian random_talk_43a21844:
 
     # s "Eventually, I finally met the person who I thought was responsible for the incident, the Yama."
-    s ""
+    s "В конце концов я всё же встретилась с тем, кого считала виновником инцидента — с Ямой."
 
 # game/script.rpy:456
 translate russian random_talk_a8663cd5:
 
     # s "Her name was Eiki, but it turns out, she was just doing her job, there wasn't anything bad happening."
-    s ""
+    s "Её звали Эйки, но, как оказалось, она просто выполняла свою работу — ничего плохого не происходило."
 
 # game/script.rpy:457
 translate russian random_talk_bfdc6aa3:
 
     # s "Still though, she gave me a lecture and told me how I was too cold to humans."
-    s ""
+    s "И всё же она прочитала мне нотацию и сказала, что я слишком холодна с людьми."
 
 # game/script.rpy:458
 translate russian random_talk_cad876b9:
 
     # s "I argued a bit with her, but after defeating her in a danmaku battle, I realized she was right..."
-    s ""
+    s "Я немного с ней поспорила, но, победив её в битве данмаку, поняла, что она была права..."
 
 # game/script.rpy:459
 translate russian random_talk_79b163b4:
 
     # s "I was too cold hearted to humans, and I shouldn't be that way."
-    s ""
+    s "Я была слишком бессердечна к людям, а не следовало бы такой быть."
 
 # game/script.rpy:460
 translate russian random_talk_5fae9655:
 
     # s "So I decided to show my warmth and kindness wherever possible!"
-    s ""
+    s "Поэтому я решила проявлять теплоту и доброту везде, где только можно!"
 
 # game/script.rpy:461
 translate russian random_talk_3b7636da:
 
     # s "...I love you!"
-    s ""
+    s "...Я люблю тебя"
 
 # game/script.rpy:464
 translate russian random_talk_bb009a7d:
 
     # s "Remember, time spent having fun isn't time wasted!"
-    s ""
+    s "Помни: время, проведенное с удовольствием, — это не потраченное зря время!"
 
 # game/script.rpy:467
 translate russian random_talk_48d3d5e4:
 
     # s "You know, humans need lots of affection to live a healthy life."
-    s ""
+    s "Знаешь, людям нужно много тепла и ласки, чтобы жить полноценной, здоровой жизнью."
 
 # game/script.rpy:468
 translate russian random_talk_c7112829:
 
     # s "Since i'm the only human living here, you better give me a lot of hugs and kisses!"
-    s ""
+    s "Раз уж я здесь единственный человек, тебе лучше осыпать меня объятиями и поцелуями!"
 
 # game/script.rpy:471
 translate russian random_talk_972e58d8:
 
     # s "You think I'd look good in a tracksuit?"
-    s ""
+    s "Думаешь, я бы хорошо смотрелась в спортивном костюме?"
 
 # game/script.rpy:472
 translate russian random_talk_f457c21e:
 
     # s "Now where did you get such a silly idea? Hehe."
-    s ""
+    s "И где ты взял такую ​​глупую мысль? Хах."
 
 # game/script.rpy:475
 translate russian random_talk_3f080cf1:
 
     # s "How old am I?"
-    s ""
+    s "Сколько мне лет?"
 
 # game/script.rpy:476
 translate russian random_talk_72d647c7:
 
     # s "That's a good question!"
-    s ""
+    s "Это хороший вопрос!"
 
 # game/script.rpy:477
 translate russian random_talk_dd9eb045:
 
     # s "Well, let's just say you can keep calling me Sakuya-san! Hehe"
-    s ""
+    s "Ну, скажем так, можешь и дальше называть меня Сакуя-сан! Хе-хе"
 
 # game/script.rpy:480
 translate russian random_talk_082191a0:
 
     # s "I wish this moment lasted forever."
-    s ""
+    s "Хотела бы я, чтобы этот момент длился вечно."
 
 # game/script.rpy:481
 translate russian random_talk_2705b248:
 
     # s "Actually, it can!"
-    s ""
+    s "На самом деле может!"
 
 # game/script.rpy:482
 translate russian random_talk_5d7ff7e0:
 
     # s "As long as you're here, I'm not going anywhere."
-    s ""
+    s "Пока ты здесь, я никуда не уйду."
 
 # game/script.rpy:485
 translate russian random_talk_eb348637:
 
     # s "Our souls are linked."
-    s ""
+    s "Наши души связаны."
 
 # game/script.rpy:486
 translate russian random_talk_48356f1b:
 
     # s "If there are other universes, we're together in those as well."
-    s ""
+    s "Если существуют другие вселенные, то и в них мы вместе."
 
 # game/script.rpy:489
 translate russian random_talk_88086e86:
 
     # s "When you love a person..."
-    s ""
+    s "Когда любишь человека..."
 
 # game/script.rpy:490
 translate russian random_talk_77711a86:
 
     # s "Even times where you're just in their presence is the most fun you can have."
-    s ""
+    s "Даже те моменты, когда вы просто находитесь рядом, — это лучшее времяпрепровождение."
 
 # game/script.rpy:491
 translate russian random_talk_0fceedd9:
 
     # s "You don't have to worry about boring me, I promise."
-    s ""
+    s "Можешь не бояться, что наскучишь мне, — обещаю."
 
 # game/script.rpy:492
 translate russian random_talk_e475acb2:
 
     # s "Just by being here with you, I'm having the time of my life."
-    s ""
+    s "Просто находясь здесь с тобой, я переживаю лучшие моменты своей жизни."
 
 # game/script.rpy:495
 translate russian random_talk_b71e1265:
 
     # s "Holding hands and going for a walk outside sounds like a fun date idea, what do you think?"
-    s ""
+    s "Прогулка на свежем воздухе, держась за руки, — отличная идея для свидания, как считаешь?"
 
 # game/script.rpy:498
 translate russian random_talk_70b72761:
 
     # s "I'll never leave you."
-    s ""
+    s "Я никогда тебя не брошу."
 
 # game/script.rpy:499
 translate russian random_talk_6bcdc00b:
 
     # s "I promise."
-    s ""
+    s "я обещаю"
 
 # game/script.rpy:502
 translate russian random_talk_604b2422:
 
     # s "In any relationship, communication is very important"
-    s ""
+    s "В любых отношениях очень важно общение."
 
 # game/script.rpy:503
 translate russian random_talk_7fd194a8:
 
     # s "So you better communicate how much you love me every single day!"
-    s ""
+    s "Так что тебе лучше каждый день говорить мне, как сильно ты меня любишь!"
 
 # game/script.rpy:506
 translate russian random_talk_fc036fb7:
 
     # s "I love you for who you are."
-    s ""
+    s "Я люблю тебя таким, какой ты есть."
 
 # game/script.rpy:507
 translate russian random_talk_9876f02a:
 
     # s "So don't ever change unless it's to improve yourself!"
-    s ""
+    s "Так что никогда не меняйся — разве что ради самосовершенствования!"
 
 # game/script.rpy:510
 translate russian random_talk_7ea6d0af:
 
     # s "Do I remember that day where I saved you?"
-    s ""
+    s "Помню ли я тот день, когда спасла тебя?"
 
 # game/script.rpy:511
 translate russian random_talk_ce317f60:
 
     # s "Of course I did, although you were at your lowest..."
-    s ""
+    s "Конечно, хотя ты и был в самой глубокой яме..."
 
 # game/script.rpy:512
 translate russian random_talk_36d590a0:
 
     # s "I'm really glad I got to meet you that day."
-    s ""
+    s "Я очень рада, что мне удалось встретиться с тобой в тот день."
 
 # game/script.rpy:534
 translate russian random_before_kiss_366a5775:
 
     # s "Oh?"
-    s ""
+    s "А?"
 
 # game/script.rpy:535
 translate russian random_before_kiss_357de1a8:
 
     # s "It's about time you asked, hehe."
-    s ""
+    s "Давно пора было спросить, хе-хе."
 
 # game/script.rpy:537
 translate russian random_before_kiss_32c71f35:
 
     # s "Give me a kiss."
-    s ""
+    s "Поцелуй меня."
 
 # game/script.rpy:542
 translate russian random_before_kiss_32c71f35_1:
 
     # s "Give me a kiss."
-    s ""
+    s "Поцелуй меня."
 
 # game/script.rpy:549
 translate russian random_before_sleep_f9f083c5:
 
     # s "Let's sleep together."
-    s ""
+    s "Давай спать вместе."
 
 # game/script.rpy:551
 translate russian random_before_sleep_b846f6e9:
 
     # s "Let's close our eyes for a bit."
-    s ""
+    s "Давай ненадолго закроем глаза."
 
 translate russian strings:
 
