@@ -1,6 +1,6 @@
 # Русификатор Sleeping With Sakuya Izayoi
 
-![Прогресс](https://img.shields.io/badge/progress-95%25-orange)
+![Прогресс](https://img.shields.io/badge/progress-100%25-green)
 
 ---
 
