@@ -1,6 +1,7 @@
 # Русификатор Sleeping With Sakuya Izayoi
 
 ![Completed ](https://img.shields.io/badge/Status-Completed-green)
+[![vndb](https://shields.io/badge/Article-VNDB-blue)](https://vndb.org/r166113)
 
 ---
 
